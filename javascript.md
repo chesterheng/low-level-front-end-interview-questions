@@ -3,15 +3,15 @@
 
   
 
-1.  [Explain how `this` works in Javascript](https://github.com/mirlz/low-level-front-end-interview-questions/blob/master/javascript.md/#explain-how-this-works-in-javascript)
+1.  [Explain how `this` works in Javascript](https://github.com/mirlz/low-level-front-end-interview-questions/blob/master/javascript.md/#1-explain-how-this-works-in-javascript)
 
-2.  [Explain what is inheritance and how you use inheritance in code](https://github.com/mirlz/low-level-front-end-interview-questions/edit/master/javascript.md/#explain-what-is-inheritance-and-how-you-use-inheritance-in-code)
+2.  [Explain what is inheritance and how you use inheritance in code](https://github.com/mirlz/low-level-front-end-interview-questions/edit/master/javascript.md/#2-explain-what-is-inheritance-and-how-you-use-inheritance-in-code)
 
-3.  [What's the difference between .call(), .apply() and .bind()](https://github.com/mirlz/low-level-front-end-interview-questions/blob/master/javascript.md/#whats-the-difference-between-call-apply-and-bind)
+3.  [What's the difference between .call(), .apply() and .bind()](https://github.com/mirlz/low-level-front-end-interview-questions/blob/master/javascript.md/#3-whats-the-difference-between-call-apply-and-bind)
 
-4. [Construct a function named Person, and contain the below in ES5:]((https://github.com/mirlz/low-level-front-end-interview-questions/blob/master/javascript.md/#construct-a-function-named-person-and-contain-the-below-in-es5)
+4. [Construct a function named Person, and contain the below in ES5:]((https://github.com/mirlz/low-level-front-end-interview-questions/blob/master/javascript.md/#4-construct-a-function-named-person-and-contain-the-below-in-es5)
 
-5.  [What's the difference between the below:](https://github.com/mirlz/low-level-front-end-interview-questions/blob/master/javascript.md/whats-the-difference-between-the-below)
+5.  [What's the difference between the below:](https://github.com/mirlz/low-level-front-end-interview-questions/blob/master/javascript.md/#5-whats-the-difference-between-the-below)
 
 	1. 
 			$('#parent-table .row').on('click', function () {
