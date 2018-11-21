@@ -9,7 +9,7 @@
 
 3.  [What's the difference between .call(), .apply() and .bind()](https://github.com/mirlz/low-level-front-end-interview-questions/blob/master/javascript.md/#3-whats-the-difference-between-call-apply-and-bind)
 
-4. [Construct a function named Person, and contain the below in ES5:]((https://github.com/mirlz/low-level-front-end-interview-questions/blob/master/javascript.md/#4-construct-a-function-named-person-and-contain-the-below-in-es5)
+4. [Construct a function named Person, and contain the below in ES5:](https://github.com/mirlz/low-level-front-end-interview-questions/blob/master/javascript.md/#4-construct-a-function-named-person-and-contain-the-below-in-es5)
 
 5.  [What's the difference between the below:](https://github.com/mirlz/low-level-front-end-interview-questions/blob/master/javascript.md/#5-whats-the-difference-between-the-below)
 
